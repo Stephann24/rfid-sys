@@ -1,0 +1,41 @@
+USE [rfid_attendance_db]
+GO
+
+/****** Object:  StoredProcedure [dbo].[GetAllUserRecords]    Script Date: 11/8/2025 10:55:01 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+	ALTER PROCEDURE [dbo].[GetAllUserRecords]
+	AS
+		BEGIN
+			SELECT  * FROM user_record;
+		END;
+GO
+
+USE [rfid_attendance_db]
+GO
+
+/****** Object:  StoredProcedure [dbo].[SaveUserRecords]    Script Date: 11/8/2025 10:55:13 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+	CREATE PROCEDURE [dbo].[SaveUserRecords]
+	@user_id VARCHAR(255),
+	@first_name VARCHAR(100),
+	@middle_name VARCHAR(100),
+	@last_name VARCHAR(100)
+		AS
+	BEGIN
+		SET NOCOUNT ON;
+		INSERT INTO user_record (user_id, first_name, middle_name, last_name, date_created)
+		VALUES (@user_id, @first_name, @middle_name, @last_name, GETDATE());
+		EXEC GetAllUserRecords;
+	END;
+GO
