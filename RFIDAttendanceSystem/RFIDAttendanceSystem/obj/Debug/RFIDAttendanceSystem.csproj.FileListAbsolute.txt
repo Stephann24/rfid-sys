@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\bin\Debug\RFIDAttendanceSystem.exe.config
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\bin\Debug\RFIDAttendanceSystem.exe
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\bin\Debug\RFIDAttendanceSystem.pdb
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\obj\Debug\RFIDAttendanceSystem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\obj\Debug\RFIDAttendanceSystem.Dashboard.AddUser.resources
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\obj\Debug\RFIDAttendanceSystem.Form1.resources
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\obj\Debug\RFIDAttendanceSystem.Properties.Resources.resources
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\obj\Debug\RFIDAttendanceSystem.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\obj\Debug\RFIDAttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\obj\Debug\RFIDAttendanceSystem.exe
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\obj\Debug\RFIDAttendanceSystem.pdb
+C:\Users\USER\source\repos\Brosas\RFIDAttendanceSystem\RFIDAttendanceSystem\obj\Debug\RFIDAttendanceSystem.exe.config
